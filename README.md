@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bashtiani
+- 👋 Hi, I’m Bahareh!
 - 👀 I’m interested in front-end focused full-stack developer opportunities.
 - 💞️ I’m looking to collaborate on JavaScript, React, TypeScript projects.
 - 📫 I can be reached at b.ashtiani@gmail.com
